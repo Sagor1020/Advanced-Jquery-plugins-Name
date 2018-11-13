@@ -1,7 +1,4 @@
 # Advanced-Jquery-plugins-Name
-Jquery plugins is a most importent in our website life
-so leat start jquery plugins Name.............
-==========================================================================================================================================
 01.How to customize webpage's default scroll bar with jquery
 02.how to create a countdown timer with jquery
 03.percent skill circle slider with jquery
