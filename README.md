@@ -1,8 +1,7 @@
 # Advanced-Jquery-plugins-Name
 Jquery plugins is a most importent in our website life
 so leat start jquery plugins Name.............
-===========================================================================================================================================
-===========================================================================================================================================
+==========================================================================================================================================
 01.How to customize webpage's default scroll bar with jquery
 02.how to create a countdown timer with jquery
 03.percent skill circle slider with jquery
@@ -27,11 +26,11 @@ so leat start jquery plugins Name.............
 21.How to use Owl Carousel 2 with problem fix
 23.Animate Headline Uses
 24.How To Make Transparent Menu With Full Screen Slider
-25.Isotope Filtering With Masonry - Part 2
+25.Isotope Filtering With Masonry 
 26.Instagram feed into html template
 27.Magnific Popup jQuery Plugin Uses in HTML Template
 28.ounter-Up jQuery Plugin Uses in HTML Template
 -------------------------------------------------------------------------
-29.To Use Google Map With Different Color - Bangla Tutorial.
-30.ax Contact Form Bangla Tutorial
-31.w To Use Mailchimp With Ajax - Bangla Tutorial
+29.To Use Google Map With Different Color
+30.ax Contact Form
+31.w To Use Mailchimp With Ajax
